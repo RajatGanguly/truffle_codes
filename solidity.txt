@@ -1,1 +1,2 @@
 Solidity is a cool language used to create smart contracts.
+it is used in remix ide.
